@@ -1,0 +1,94 @@
+{
+    "Search": [
+        {
+            "Title": "Batman: The Killing Joke",
+            "Year": "2016",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3CzPp4Y",
+            "Rating": "6.4/10",
+            "Date": "July 22, 2016",
+            "Description": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness."
+        },
+        {
+            "Title": "Batman: The Dark Knight Returns, Part 2",
+            "Year": "2013",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3DEldan",
+            "Rating": "8.4/10",
+            "Date": "January 29, 2013",
+            "Description": "The Batman has returned after a 10-year absence. The Gotham authorities want to arrest him. An old foe wants a reunion. The Feds want the Man of Tomorrow to put a stop to him."
+        },
+        {
+            "Title": "Batman: Mask of the Phantasm",
+            "Year": "1993",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3kSeORC",
+            "Rating": "7.8/10",
+            "Date": "December 25, 1993",
+            "Description": "Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin."
+        },
+        {
+            "Title": "Batman: Year One",
+            "Year": "2011",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3oDC7Qc",
+            "Rating": "7.4/10",
+            "Date": "October 18, 2011",
+            "Description": "A wealthy playboy and a Chicago cop both return to Gotham City where their lives will intersect in unexpected ways."
+        },
+        {
+            "Title": "Batman: Assault on Arkham",
+            "Year": "2014",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3csU4Lt",
+            "Rating": "7.5/10",
+            "Date": "July 30, 2014",
+            "Description": "Batman works desperately to find a bomb planted by the Joker while Amanda Waller hires her newly formed Suicide Squad to break into Arkham Asylum to recover vital information stolen by the Riddler."
+        },
+        {
+            "Title": "Batman: The Movie",
+            "Year": "1966",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3czDTfm",
+            "Rating": "6.5/10",
+            "Date": "July 30, 1966",
+            "Description": "The Dynamic Duo faces four supervillains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people."
+        },
+        {
+            "Title": "Batman: Gotham Knight",
+            "Year": "2008",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3DzrmVb",
+            "Rating": "6.7/10",
+            "Date": "July 8, 2008",
+            "Description": "A collection of key events mark Bruce Wayne's life as he journeys from beginner to Dark Knight."
+        },
+        {
+            "Title": "The Lego Batman Movie",
+            "Year": "2017",
+            "Type": "movie",
+            "Poster": "https://bit.ly/30INX3z",
+            "Rating": "7.3/10",
+            "Date": "January 29, 2017",
+            "Description": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick."
+        },
+        {
+            "Title": "Batman: The Dark Knight Returns, Part 1",
+            "Year": "2012",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3oIWj31",
+            "Rating": "8/10",
+            "Date": "September 25, 2012",
+            "Description": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?"
+        },
+        {
+            "Title": "Batman: Bad Blood",
+            "Year": "2016",
+            "Type": "movie",
+            "Poster": "https://bit.ly/3CzVjTG",
+            "Rating": "6.8/10",
+            "Date": "January 19, 2016",
+            "Description": "Bruce Wayne is missing. Alfred covers for him while Nightwing and Robin patrol Gotham City in his stead. And a new player, Batwoman, investigates Batman's disappearance."
+        }
+    ]
+}
